@@ -13,4 +13,9 @@ Build a multi-functioning bot that traverses the internet to find competitions a
 
 <b>Lottery.co.uk</b>: Explore entering the free lottery automatically.
 
+## Areas to Research
+Free Games - e.g Super 6, Grosvenor 5, 888 up for 8, etc.
+Competition Finders - www.loquax.co.uk, www.competitions-time.co.uk, https://www.theprizefinder.com/
+Known Big Company Giveaways - Itv.com, capitalfm.com, heart.co.uk
+
 
